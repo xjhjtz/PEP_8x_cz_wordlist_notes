@@ -12,6 +12,9 @@
 
 持续更新。。。
 
+Copyright (c) [2026] [xjhjtz]
+This work is licensed under CC BY-NC 4.0.
+
 ## 使用的一些特定组合：
 
 - **sth** :指something。这里指代 某物或某事，指代一个不确定或未明确说明的东西。
