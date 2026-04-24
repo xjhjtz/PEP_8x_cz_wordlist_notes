@@ -30,7 +30,7 @@
 
 ## 目录
 
-- [Unit1 第一单元](Unit1.md)
+- [Unit1 第一单元](wordlist/Unit1.md)
 
 ## 如何贡献
 
