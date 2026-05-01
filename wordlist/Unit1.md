@@ -50,7 +50,7 @@
 
         instructor=coach (n.教练)
 
-### give up phr. 放弃
+### give up 放弃
 
     **备注**：
 
@@ -70,7 +70,7 @@
 
         scary adj.害怕的（用于修饰**物**或**事**）
 
-### scared of phr. 害怕；恐惧
+### scared of 害怕；恐惧
 
     **用法**：
 
@@ -82,9 +82,9 @@
 
         fear to do sth 害怕做某事
 
-### get over phr. 克服；解决
+### get over 克服；解决
 
-### up to phr. 正在做；由某人决定
+### up to 正在做；由某人决定
 
     **例句**：
 
@@ -120,7 +120,7 @@
 
 > 💡Tips：**return不与back连用**
 
-### in return phr. 作为回报
+### in return 作为回报
 
 ### deal n. 协议；交易
 
@@ -152,13 +152,13 @@
 
 ### ice-skate v.滑冰；溜冰
 
-### get into phr. 开始做某事；进入
+### get into 开始做某事；进入
 
     **备注**：
 
         get into =take up
 
-### give it a go phr. 试一试
+### give it a go 试一试
 
     **备注**：
 
@@ -332,7 +332,7 @@
 
         foreign language 外语
 
-### dream of phr. 梦想；向往
+### dream of 梦想；向往
 
     **用法**：
 
@@ -378,7 +378,7 @@
 
 > 💡Tips：surprising通常用于修饰**事或物**，surprised通常用于修饰**人**
 
-### so far phr. 到目前为止
+### so far 到目前为止
 
     **用法**：
 

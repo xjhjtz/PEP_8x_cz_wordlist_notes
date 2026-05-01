@@ -31,6 +31,7 @@
 ## 目录
 
 - [Unit1 第一单元](wordlist/Unit1.md)
+- [Unit2 第二单元](wordlist/Unit2.md)
 
 ## 如何贡献
 
@@ -43,3 +44,7 @@
 若要增加单词内容，请参考[模板](simple.md)。
 
 欢迎提出Issue或PR。
+
+## 食用指南
+
+> 由于GitHub的markdown阅读界面实在不适合长时间学习使用，这里推荐用一些Markdown写作/阅读软件进行阅读。如[GitHub - marktext/marktext](https://github.com/marktext/marktext)
