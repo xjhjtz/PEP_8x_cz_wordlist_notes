@@ -2,6 +2,8 @@
 
 ---
 
+『  *To see the world, things dangerous to came to, to see behind walls, to draw closer，to find each other and to feel. ——That is purpose of life.*  』
+
 ## 前言
 
  本仓库创建的初衷是为英语学习提供一些帮助，于是我把我的英语单词表笔记分享出来。
@@ -32,6 +34,7 @@
 
 - [Unit1 第一单元](wordlist/Unit1.md)
 - [Unit2 第二单元](wordlist/Unit2.md)
+- [Unit3 第三单元](wordlist/Unit3.md)
 
 ## 如何贡献
 
