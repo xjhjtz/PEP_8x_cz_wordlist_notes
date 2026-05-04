@@ -2,8 +2,6 @@
 
 *注：部分单词的汉译为斜体，代表这个释义课本上没有但真实存在，为编者所加*
 
-
-
 ### deal with 处理；对付
 
     **习惯用法**：
@@ -528,10 +526,10 @@
 
     **相关单词**：
 
-| 词性/意思 | 长     | 宽     | 高       | 深     |
-| ----- | ----- | ----- | ------- | ----- |
-| adj.  | long  | wide  | high    | deep  |
-| n.    | lenth | width | heighth | depth |
+| 词性/意思 | 长     | 宽     | 高      | 深     |
+| ----- | ----- | ----- | ------ | ----- |
+| adj.  | long  | wide  | high   | deep  |
+| n.    | lenth | width | height | depth |
 
 ### take a deep breath 深呼吸
 

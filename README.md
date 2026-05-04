@@ -16,7 +16,7 @@
 
 **本人学习进度**：Unit6/Unit8
 
-**本人更新进度**：Unit3/Unit6
+**本人更新进度**：Unit4/Unit6
 
 ## 使用的一些特定组合：
 
@@ -39,6 +39,7 @@
 - [Unit1 第一单元](wordlist/Unit1.md)
 - [Unit2 第二单元](wordlist/Unit2.md)
 - [Unit3 第三单元](wordlist/Unit3.md)
+- [Unit4 第四单元](wordlist/Unit4.md)
 
 ## 如何贡献
 
