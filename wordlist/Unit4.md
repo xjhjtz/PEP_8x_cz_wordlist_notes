@@ -69,7 +69,7 @@
 | 词性/意思 | 长     | 宽     | 高      | 深     |
 | ----- | ----- | ----- | ------ | ----- |
 | adj.  | long  | wide  | high   | deep  |
-| n.    | lenth | width | height | depth |
+| n.    | length | width | height | depth |
 
     **常用表达**：
 

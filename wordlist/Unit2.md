@@ -138,7 +138,7 @@
 
         have a test 进行测验
 
-        do test 做（身体方面的）检查
+        do a test 做（身体方面的）检查
 
 ### flu n.流行性感冒
 
@@ -186,7 +186,7 @@
 
     **相关短语**：
 
-        description words 形容词
+        descriptive words 形容词
 
         give a description of 对...描写/形容
 
@@ -212,7 +212,7 @@
 
     **备注**：
 
-        可数名词，变复数时**加es**。
+        指具体疾病种类时为**可数名词**，变复数时**加es**（illnesses）；指生病状态时为**不可数名词**。
 
 ### knife n.刀
 
@@ -310,7 +310,7 @@
 
         by oneself 通过...自身
 
-        enjoy oneself 玩的开心
+        enjoy oneself 玩得开心
 
 ### fry v.油炸；油煎；油炒
 

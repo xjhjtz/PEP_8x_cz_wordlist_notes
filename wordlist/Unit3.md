@@ -38,7 +38,7 @@
 
     **相关单词**：
 
-        lonelines n.孤独；寂寞
+        loneliness n.孤独；寂寞
 
         alone adj.独自的；单独的  adv.独自，单独
 
@@ -56,7 +56,7 @@
 
     **相关短语**：
 
-        be shock at 对...感到震惊
+        be shocked at 对...感到震惊
 
         be shocked to do sth 对做某事感到震惊
 
@@ -529,7 +529,7 @@
 | 词性/意思 | 长     | 宽     | 高      | 深     |
 | ----- | ----- | ----- | ------ | ----- |
 | adj.  | long  | wide  | high   | deep  |
-| n.    | lenth | width | height | depth |
+| n.    | length | width | height | depth |
 
 ### take a deep breath 深呼吸
 

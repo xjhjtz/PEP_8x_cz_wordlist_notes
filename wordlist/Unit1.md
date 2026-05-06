@@ -66,7 +66,7 @@
 
     **相关单词**：
 
-        scary adj.害怕的（用于修饰**物**或**事**）
+        scary adj.吓人的；恐怖的（用于修饰**物**或**事**）
 
 ### scared of 害怕；恐惧
 
@@ -276,7 +276,7 @@
 
     **相关短语**：
 
-        every coin has two sites 凡事都有两面性
+        every coin has two sides 凡事都有两面性
 
     **备注**：
 
