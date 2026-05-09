@@ -486,7 +486,7 @@
 
     **相关短语**：
 
-        be shock(ed) at by ... 被...吓到
+        be shock(ed) at/by ... 被...吓到
 
 ### bleed v.流血；出血
 

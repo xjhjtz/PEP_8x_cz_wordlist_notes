@@ -522,13 +522,13 @@
 
 ### deep adj. 深的；有……深的
 
-> 💡**Tips**：在表示长、宽、高、深时，一般结构**为基数词+度量名词加meter\wide\high\deep**。如10米深 *10 metres depth*
+> 💡**Tips**：在表示长、宽、高、深时，一般结构**为基数词+度量名词加meter\wide\high\deep**。如10米深 *10 metres deep*
 
     **相关单词**：
 
-| 词性/意思 | 长     | 宽     | 高      | 深     |
-| ----- | ----- | ----- | ------ | ----- |
-| adj.  | long  | wide  | high   | deep  |
+| 词性/意思 | 长      | 宽     | 高      | 深     |
+| ----- | ------ | ----- | ------ | ----- |
+| adj.  | long   | wide  | high   | deep  |
 | n.    | length | width | height | depth |
 
 ### take a deep breath 深呼吸
