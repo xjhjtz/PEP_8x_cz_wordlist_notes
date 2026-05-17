@@ -36,6 +36,8 @@
 
 ### lonely <mark>adj.</mark> 孤独的；寂寞的；*偏僻的*
 
+    **这是个形容词！！！**
+
     **相关单词**：
 
         loneliness n.孤独；寂寞
@@ -504,7 +506,7 @@
 
         be get mad at/with sb 跟某人生气
 
-        be mad about on 对...迷恋
+        be mad about/on sth 对...迷恋
 
         be get mad about sth 跟某事生气
 
