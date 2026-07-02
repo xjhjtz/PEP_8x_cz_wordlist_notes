@@ -34,7 +34,7 @@
 
 ### express v. 表达；表示
 
-    **相关短语**：express oneself 表达自己
+    **相关短语**：express oneself 表达自己的意思
 
 ### instructor n. 教练；指导者
 
@@ -196,7 +196,7 @@
 
     **相关短语**：
 
-    have a chat (with) （与某人）对话
+        have a chat (with) （与某人）对话
 
 ### outing n. 出外游玩；远足
 
@@ -357,6 +357,10 @@
     **相关单词**：
 
         inspire v.鼓励 =encourage
+
+    **发音**：
+
+        [inspiration-网易有道英式](https://dict.youdao.com/pronounce/base?product=webdict&appVersion=1&client=web&mid=1&vendor=web&screen=1&model=1&imei=1&network=wifi&keyfrom=dick&keyid=voiceDictWeb&mysticTime=1782994831262&yduuid=abcdefg&le=&phonetic=&rate=4&word=inspiration&type=1&id=&sign=f9f8f5a9c445d4a74a55ee60197d00e0&pointParam=appVersion,client,imei,keyfrom,keyid,mid,model,mysticTime,network,product,rate,screen,type,vendor,word,yduuid,key)
 
 ### strict adj. 严格的
 
